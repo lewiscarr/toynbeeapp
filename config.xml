@@ -5,10 +5,10 @@
         id        = "com.moodlerooms.moodleroomsmobile"
         versionCode = "20160"
         version   = "3.2.0">
-    <name>Moodlerooms Mobile App</name>
+    <name>Bb Classroom</name>
 
     <description>
-        Moodlerooms Mobile official app
+       Bb Classroom
     </description>
 
     <author href="http://moodlerooms.com" email="mobile@moodlerooms.com">
