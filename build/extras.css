@@ -16,7 +16,7 @@ body,html{
 }
 .item {
     border: none;
-    
+    background: transparent;
 }
 
 /* Top Bar colour used across app */
