@@ -279,8 +279,8 @@ text-align: center;
 .profilebg {
     padding: 25px 5px 25px 5px;
     text-align: center;
-     background: rgba(255,255,255,0.95);
-    
+     background: #333333;
+    color:#fff;
 }
 
 
