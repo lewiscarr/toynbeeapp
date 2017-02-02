@@ -160,8 +160,8 @@ a.item.item-icon-left {
     color: #fff;
 }
 button.button.button-block {
-    background: #e719a4;
-    border: none;
+    background: #333333;
+    border: 1px solid #fff;
     color: #fff;
 }
 
