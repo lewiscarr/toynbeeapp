@@ -53,7 +53,7 @@ a.tab-item.active {
 
 /* Menu logo custom hack */
 .menulogo {
-    background: url("../img/extras/mycourses.png");
+    background: url("../img/extras/logo.png");
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 100px;
@@ -105,11 +105,13 @@ a.button.button-block {
     background: #333333;
     border: 1px solid #fff;
     color: #fff;
+    margin:10px;
 }
 a.button.button-block:hover {
     background: #333333;
     border: 1px solid #fff;
     color: #fff;
+    margin:10px;
 }
 
 /* Turns off bg colour of menu */
@@ -259,7 +261,7 @@ button.button.button-block {
 .credentialsbg {
     padding: 25px 5px 25px 5px;
     text-align: center;
-     background: rgba(61, 61, 57, 0.5);
+     background: #333333;
     margin-top:0px;
     margin-bottom: 20px;
     color: #fff;
