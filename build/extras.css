@@ -1,7 +1,10 @@
 body,html{
     height: 100%;
      margin:0;
+    
 }
+
+
 
 
 .item.item-text-wrap {
@@ -9,6 +12,7 @@ body,html{
 }
 .scroll-content {
     padding: 0px;
+    background:#f0f0f0;
 }
 .item {
     border: none;
