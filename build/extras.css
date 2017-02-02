@@ -17,13 +17,13 @@ body,html{
 
 /* Top Bar colour used across app */
 .bar-content {
-    background-color: #e719a4;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    background-color: #333333;
+    
 }
 
 /* The icons used on my courses - participants etc */
 a.tab-item.active {
-    color: #30c3ee;
+    color: #c472d4;
     border-radius: 7px;
     font-weight: bold;
 }
@@ -42,7 +42,7 @@ a.tab-item.active {
 .loginbg {
  height: 100%;
   background-image: url("../img/extras/bglogin.jpg");
-    background-color:#ff7f41; 
+    background-color:#333333; 
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -72,7 +72,7 @@ a.tab-item.active {
 
 
 .list.card {
-     border-top: 4px solid #28d9fb;
+     border-top: 4px solid #c472d4;
     border-left: 1px solid #e5e5e5;
     border-right: 1px solid #e5e5e5;
     border-bottom: 1px solid #e5e5e5;
@@ -80,7 +80,7 @@ a.tab-item.active {
 }
 
 .eventlink {
-     border-top: 4px solid #28d9fb;
+     border-top: 4px solid #c472d4;
     border-left: 1px solid #e5e5e5;
     border-right: 1px solid #e5e5e5;
     border-bottom: 1px solid #e5e5e5;
@@ -90,7 +90,7 @@ a.tab-item.active {
 
 
 a.item.item-media.item-text-wrap {
-border-top: 4px solid #28d9fb;
+border-top: 4px solid #c472d4;
     border-left: 1px solid #e5e5e5;
     border-right: 1px solid #e5e5e5;
     border-bottom: 1px solid #e5e5e5;
@@ -129,7 +129,7 @@ a.button.button-block:hover {
 
 /* makes menu blur background */
 .menu {
-    background: #ff7f41 url("../img/extras/blur.jpg");
+    background: #333333;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -164,7 +164,7 @@ button.button.button-block {
 
 /* custom hack */
 .courseheader {
-    background: #ff7f41 url("../img/extras/mycourses.png");
+    background: #333333 url("../img/extras/mycourses.png");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -176,7 +176,7 @@ button.button.button-block {
 
 /* custom hack */
 .courselistbg {
-    background: #ff7f41 url("../img/extras/courselist.png");
+    background: #333333 url("../img/extras/courselist.png");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -201,7 +201,7 @@ button.button.button-block {
 
 /* custom hack */
 .coursesection {
-    background: #ff7f41 url("../img/extras/coursesection.png");
+    background: #333333 url("../img/extras/coursesection.png");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -404,7 +404,7 @@ background:  url("../img/extras/events.png");
 }
 
 .eventsheader .item {
-background: grey;
+background: #333333;
 }
 
 input[type=url] {
@@ -416,7 +416,7 @@ input[type=url] {
   
     
     .greypage {
-    background: #f8f8f8;
+    background: #333333;
     }
 
 
