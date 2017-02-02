@@ -16,7 +16,7 @@ body,html{
 }
 .item {
     border: none;
-    background: #333333;
+    
 }
 
 /* Top Bar colour used across app */
@@ -467,3 +467,8 @@ div.dark a.item.item-icon-left {
     background: #333333;
     color: #fff;
 }
+
+div.dark .item {
+    background: #333333;}
+.dark .item {
+    background: #333333;}
