@@ -288,8 +288,8 @@ text-align: center;
  padding: 25px 5px 25px 5px;
     text-align: center;
     color:#fff;
-    background: rgba(61, 61, 57, 0.5);
-    margin-top:25px
+    background: #333333
+    margin-top:25px;
     margin-bottom:25px;
     
 }
@@ -394,6 +394,10 @@ span.item-note.ng-binding {
     text-align:center;
 }
 
+.profilebg h2
+{ color:#fff;
+}
+
 
 
 
@@ -456,5 +460,10 @@ border-color: #c46ed1;
 }
 
 .item-stacked-label .input-label {
+    color: #fff;
+}
+
+div.dark a.item.item-icon-left {
+    background: #333333;
     color: #fff;
 }
