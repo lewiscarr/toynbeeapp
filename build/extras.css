@@ -41,7 +41,7 @@ a.tab-item.active {
 
 .loginbg {
  height: 100%;
-  background-image: url("../img/extras/bglogin.jpg");
+  
     background-color:#333333; 
     -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -250,7 +250,7 @@ button.button.button-block {
     padding: 20px;
     text-align: center;
     color:#fff;
-    background: rgba(61, 61, 57, 0.5);
+   
 }
 
 
@@ -413,7 +413,13 @@ input[type=url] {
 
 
     
-  
+  .loginform input {
+ background: #333333;
+      border-bottom: 1px solid #fff;
+      border-top:none;
+      border-left:none;
+      border-right: none;
+}
     
     .greypage {
     background: #333333;
