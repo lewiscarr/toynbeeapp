@@ -345,7 +345,7 @@ border-left: 45px solid #ff7f41;
 
 
 .item.item-text-wrap.item-button-right {
- border-bottom:1px solid #ff7f41;
+ border-bottom:1px solid #c472d4;
   padding-top:15px;
     padding-bottom: 15px;
   
@@ -370,7 +370,7 @@ border-left: 45px solid #ff7f41;
 
 
 span.item-note.ng-binding {
-    background: #ff7f41;
+    background: #c472d4;
     border-radius: 5px;
     color: #fff;
     padding: 5px;
@@ -379,7 +379,7 @@ span.item-note.ng-binding {
 
 
 .profilebg {
- background: #ff7f41 url("../img/extras/blur.jpg");
+ background: #333333;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
