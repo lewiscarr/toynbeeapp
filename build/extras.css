@@ -101,13 +101,13 @@ border-top: 4px solid #c472d4;
 
 /* Buttons */
 a.button.button-block {
-    background: #e719a4;
-    border: none;
+    background: #333333;
+    border: 1px solid #fff;
     color: #fff;
 }
 a.button.button-block:hover {
-    background: #e719a4;
-    border: none;
+    background: #333333;
+    border: 1px solid #fff;
     color: #fff;
 }
 
