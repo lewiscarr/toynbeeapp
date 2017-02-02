@@ -419,6 +419,24 @@ input[type=url] {
       border-top:none;
       border-left:none;
       border-right: none;
+      color:#fff;
+}
+
+.loginform .button.button-block {
+    
+    margin:10px;
+}
+/* Buttons */
+.loginform a.button.button-block {
+    background: #333333;
+    border: 1px solid #fff;
+    color: #fff;
+  
+}
+.loginform a.button.button-block:hover {
+    background: #333333;
+    border: 1px solid #fff;
+    color: #fff;
 }
     
     .greypage {
