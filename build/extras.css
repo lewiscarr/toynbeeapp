@@ -472,3 +472,8 @@ div.dark .item {
     background: #333333;}
 .dark .item {
     background: #333333;}
+
+
+ion-content.has-side-menu-header.scroll-content.ionic-scroll {
+    background: #333333;
+}
